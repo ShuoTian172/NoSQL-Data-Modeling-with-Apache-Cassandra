@@ -1,4 +1,4 @@
-# Project 2: NoSQL Data Modeling with Apache Cassandra
+# NoSQL Data Modeling with Apache Cassandra
 
 <p align="center"><img src="images/logo.png" style="height: 100%; width: 100%; max-width: 200px" /></p>
 
